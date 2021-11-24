@@ -1,0 +1,36 @@
+body {
+    background-color: #4400ff;
+    font-weight: 400;
+}
+
+.button {
+    text-decoration: none;
+    line-height: 20px;
+    background: #fff025;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 2px;
+    display: block;
+    width: 150px;
+    text-align: center;
+    font-weight: 800;
+    color: black;
+}
+
+.button:hover {
+    background: #d4c81f;
+    color: white;
+}
+
+.img-style {
+    border-radius: 15%;
+}
+
+.alinhar {
+    display: flex;
+}
+
+#estudante {
+    font-size: 20px;
+    font-weight: 900;
+}
